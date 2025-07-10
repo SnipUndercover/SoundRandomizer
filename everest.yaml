@@ -1,0 +1,6 @@
+- Name: SoundRandomizer
+  Version: 0.1.0
+  DLL: bin/SoundRandomizer.dll
+  Dependencies:
+    - Name: EverestCore
+      Version: 1.5617.0
